@@ -1,5 +1,5 @@
 # IMDB-Data-Analysis-Machine-Learning-
-Using the IMDB Dataset finding the top rated movies, finding in which year there was the highest average revenue 
+Using the IMDB Dataset finding the top rated movies, finding in which year there was the highest average revenue etc.....
 
 
 First i have loaded the Dataset as CSV File.
